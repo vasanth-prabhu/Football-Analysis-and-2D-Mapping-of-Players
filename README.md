@@ -24,6 +24,7 @@ This project performs advanced football match analysis by processing video foota
    pip install -r requirements.txt
 3. Place your input video in the input directory.
 4. Run the main.py file.
+5. Delete the pickle files made in stubs folder after each different video.
 
 ## Dependencies 
 The techstack used in the project are:
