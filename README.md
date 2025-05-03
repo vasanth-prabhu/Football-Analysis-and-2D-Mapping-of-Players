@@ -12,9 +12,9 @@ This project performs advanced football match analysis by processing video foota
 7. **Team Assignment**: Identifies and assigns players to their respective teams.
 8. **Ball Possession Assignment**: Determines which player and team have ball possession.
 9. **Annotated Output Video**: Generates a video with all the above insights visualized.
-10. **Graph Output**:Plot generates graph for heatmap and average speed and distance .
-## Installation
+10. **Graph Output**: Plot generates graph for heatmap and average speed and distance .
 
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/vasanth-prabhu/Football-Analysis-and-2D-Mapping-of-Players.git
